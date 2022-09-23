@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cv-react/static/css/main.d19ee5e1.css",
+    "main.js": "/cv-react/static/js/main.86a10df9.js",
+    "static/media/profile.jpg": "/cv-react/static/media/profile.33ea7e635b089bc5d67d.jpg",
+    "index.html": "/cv-react/index.html",
+    "main.d19ee5e1.css.map": "/cv-react/static/css/main.d19ee5e1.css.map",
+    "main.86a10df9.js.map": "/cv-react/static/js/main.86a10df9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d19ee5e1.css",
+    "static/js/main.86a10df9.js"
+  ]
+}
